@@ -7,7 +7,7 @@ const products = [
   {
     id: '101',
     name: 'Developer Laptop Pro',
-    category: 'Electronics',
+    category: 'sid-Electronics',
     price: 70000,
     rating: 4.8,
     badge: 'Best Seller',
@@ -16,7 +16,7 @@ const products = [
   {
     id: '102',
     name: 'AI Camera Smartphone',
-    category: 'Mobiles',
+    category: 'sid-Mobiles',
     price: 40000,
     rating: 4.6,
     badge: 'New Launch',
